@@ -8,9 +8,12 @@ Installation
 ------------
 1. Download the package as a .tar.gz archive.
 2. Extract the contents.
-    tar -xzvf [archive-name].tar.gz
+
+        tar -xzvf [archive-name].tar.gz
+
 3. Run the installation script as superuser.
-    sudo ./install.sh
+
+        sudo ./install.sh
 
 Suggestions and contributions are welcome.
 
