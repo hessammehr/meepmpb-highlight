@@ -12,7 +12,8 @@ elif [ -d "$SOURCEVIEW_2_DIR" ]; then
 else
 	echo Error: Could not find GtkSourceView syntax definition folder!
 	echo Please manually copy ctl.lang to the correct location. 
-	echo This is normally located at /usr/share/gtksourceview-x.y/language-spec or /usr/local/share/gtksourceview-x.y/language-specs
+	echo This is often at /usr/share/gtksourceview-x.y/language-spec\
+		or /usr/local/share/gtksourceview-x.y/language-specs
 fi
 
 echo Creating Meep/MPB MIME type
