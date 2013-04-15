@@ -6,16 +6,13 @@ This package provides syntax coloring/highlighting for people who use the gedit 
 
 Installation
 ------------
-1. Download the package as a .tar.gz archive.
-2. Extract the contents.
+1. Download the ZIP archive and extract it anywhere.
 
-        tar -xzvf [archive-name].tar.gz
-
-3. Run the installation script as superuser.
+2. Run the installation script as superuser in the folder where you extracted the archive.
 
         sudo ./install.sh
 
-Suggestions and contributions are welcome.
+Suggestions and contributions are welcome. If you fixed it yourself, please submit a pull request so everyone can benefit! 
 
 [meep]: http://ab-initio.mit.edu/meep
 [mpb]: http://ab-initio.mit.edu/mpb
